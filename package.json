@@ -1,0 +1,26 @@
+{
+  "name": "blogvue",
+  "version": "1.0.0",
+  "description": "Client app for Blog API written in Vue",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JB-Tellez/blogvue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "JB Tellez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JB-Tellez/blogvue/issues"
+  },
+  "homepage": "https://github.com/JB-Tellez/blogvue#readme"
+}
